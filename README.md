@@ -1,16 +1,16 @@
 # customerrecords
-Handle Customer Data
-Technoligies I used in my project
-java 7
-spring 4.2.3
-Hibernate (5.0.4.Final) as persistence provider 
-Server: Wildfly 8.x
-Mysql Relational database 
-Bootstrap front end
+This is  a sample customer details management system </br>
+Technoligies I used in my project</br>
+java 7</br>
+spring 4.2.3</br>
+Hibernate (5.0.4.Final) as persistence provider </br>
+Server: Wildfly 8.x</br>
+Mysql Relational database </br>
+Bootstrap front end</br>
 
 
-form validations 
-spring form validations
+form validations </br>
+spring form validations</br>
 
 
 
